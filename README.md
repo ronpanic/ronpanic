@@ -7,6 +7,7 @@
 - 💬 Ask me about Sass/Scss, HTML, CSS and Javascript 
 - 📫 How to reach me: rondrft@gmail.com
 
+
 ### Languages ​​and tools I use:
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -20,6 +21,13 @@
 
 ### Other languages ​​I will learn
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+
+### Day to day programs
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,linkedin)](https://skillicons.dev)
+
+| ![ronpanic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronpanic&theme=dark&hide_border=true) |  ![ronpanic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronpanic&theme=dark&show_icons=true&hide_border=true&layout=compact) | 
+| ------------- | ------------- |
 
 ---
 <!--
