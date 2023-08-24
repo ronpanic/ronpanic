@@ -24,7 +24,7 @@
 
 ### Day to day programs
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,linkedin,discord)](https://skillicons.dev)
 
 | ![ronpanic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronpanic&theme=dark&hide_border=true) |  ![ronpanic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronpanic&theme=dark&show_icons=true&hide_border=true&layout=compact) | 
 | ------------- | ------------- |
