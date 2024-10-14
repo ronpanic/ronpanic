@@ -1,4 +1,4 @@
-### <h1 align="center">Hello, im Ron 💀. </h1>
+### <h1>Hello, im Ron 💀. </h1>
 
 <h3> I am a programmer delighted with the Frontend... </h3>
 
