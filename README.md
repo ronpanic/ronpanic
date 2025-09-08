@@ -1,6 +1,6 @@
 # 💀 Ron
 
-**'Backend Developer | Java & Spring Boot | Application Security | Frontend React'**
+**`Backend Developer | Java & Spring Boot | Application Security | Frontend React`**
 
 Software developer with 3+ years of programming experience.  
 Currently focused on **Java, Spring Boot and application security** (Spring Security, authentication, encryption).  
@@ -8,6 +8,7 @@ I also have experience in **Frontend with React/React Native**, giving me a full
 Motivated to build solutions that are **secure, scalable and user-centered**.  
 
 ## 🧰 Languages and Tools  
+---
 
 <p align="left">
   <!-- Backend -->
@@ -32,18 +33,32 @@ Motivated to build solutions that are **secure, scalable and user-centered**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
 </p>
 
----
-
 | ![ronpanic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronpanic&theme=dark&hide_border=true) | ![ronpanic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronpanic&theme=dark&show_icons=true&hide_border=true&layout=compact) | 
 | ------------- | ------------- |
 
 ---
 
 <details>
-  <summary><h3>📌 More about me</h3></summary>
+  <summary><h3>🔒 Pathly Project</h3></summary>
   
-  - 🎓 Currently studying **TUDAI (Universitary Degree in Software Applications Development)**  
-  - 🔒 Building **Pathly**, a secure password manager API with Spring Boot + Spring Security  
-  - 🌱 Learning more about **application security, Docker and cloud deployment**  
-  - 💡 Always aiming to build solutions that combine **functionality, scalability and security**  
+  Currently developing **Pathly**, a secure password manager API built with  
+  **Java, Spring Boot and Spring Security**.  
+  It includes authentication, authorization, encryption, and secure storage of credentials.  
+  The project also integrates **Docker** for deployment and is my way to put security practices into real code.  
+</details>
+
+<details>
+  <summary><h3>📚 My Journey</h3></summary>
+  
+  - 🎓 Studying **TUDAI (University Technical Degree in Software Applications Development)**  
+  - 🌱 Self-taught with 3+ years coding, started in **Frontend (React, JS, TS)** and moved into **Backend**  
+  - 🚀 Now focused on becoming a **Backend Developer specialized in Application Security**  
+</details>
+
+<details>
+  <summary><h3>🤝 Beyond Code</h3></summary>
+  
+  - 💡 I value **teamwork, communication and problem-solving**  
+  - 🎨 Background in **UX/UI** from Multimedia studies  
+  - ⚡ I like challenges that mix **functionality, scalability and security**  
 </details>
