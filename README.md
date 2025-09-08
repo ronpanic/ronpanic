@@ -1,39 +1,35 @@
 # 💀 Ron
 
----
+**'Backend Developer | Java & Spring Boot | Application Security | Frontend React'**
 
-**Backend Developer | Java & Spring Boot | Application Security | Frontend React**
-
-Apasionado por el desarrollo de software, con más de 3 años programando.  
-Actualmente enfocado en **Java, Spring Boot y seguridad de aplicaciones** (Spring Security, autenticación, cifrado).  
-También tengo experiencia en **Frontend con React/React Native**, lo que me da una visión completa del ciclo de vida de un proyecto.  
-Me motiva crear soluciones **seguras, escalables y centradas en el usuario**.  
-
----
+Software developer with 3+ years of programming experience.  
+Currently focused on **Java, Spring Boot and application security** (Spring Security, authentication, encryption).  
+I also have experience in **Frontend with React/React Native**, giving me a full vision of the application lifecycle.  
+Motivated to build solutions that are **secure, scalable and user-centered**.  
 
 ## 🧰 Languages and Tools  
 
 <p align="left">
-  <!-- Backend & Security -->
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
-  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hibernate-colored.svg" width="36" height="36" alt="Hibernate" /></a>
-  
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="36" height="36" alt="Hibernate" />
+
   <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
+
   <!-- Cloud & DevOps -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonwebservices-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="GCP" /></a>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36" alt="GCP" />
+
   <!-- Secondary -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
 </p>
 
 ---
@@ -46,8 +42,8 @@ Me motiva crear soluciones **seguras, escalables y centradas en el usuario**.
 <details>
   <summary><h3>📌 More about me</h3></summary>
   
-  - 🎓 Currently studying **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**  
-  - 🔒 Developing **Pathly**, a secure password management API with Spring Boot + Spring Security  
-  - 🌱 Learning more about **application security, Docker, and cloud deployment**  
-  - 💡 Always aiming to build solutions that combine **functionality, scalability, and security**  
+  - 🎓 Currently studying **TUDAI (Universitary Degree in Software Applications Development)**  
+  - 🔒 Building **Pathly**, a secure password manager API with Spring Boot + Spring Security  
+  - 🌱 Learning more about **application security, Docker and cloud deployment**  
+  - 💡 Always aiming to build solutions that combine **functionality, scalability and security**  
 </details>
