@@ -37,7 +37,7 @@ Motivated to build solutions that are **secure, scalable and user-centered**.
 <details>
   <summary><h3>🔒 Pathly Project</h3></summary>
   
-  Currently developing **Pathly**, a secure password manager API built with  
+  Currently developing **Passly**, a secure password manager API built with  
   **Java, Spring Boot and Spring Security**.  
   It includes authentication, authorization, encryption, and secure storage of credentials.  
   The project also integrates **Docker** for deployment and is my way to put security practices into real code.  
