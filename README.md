@@ -31,7 +31,7 @@ Motivated to build solutions that are **secure, scalable and user-centered**.
 | ![rondrft's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rondrft&theme=dark&hide_border=true) | ![rondrft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondrft&theme=dark&show_icons=true&hide_border=true&layout=compact) | 
 | ------------- | ------------- |
 
-![snake gif](https://github.com/rondrft/rondrftc/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rondrft/rondrft/blob/output/github-snake-dark.svg)
 
 
 <details>
