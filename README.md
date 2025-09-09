@@ -31,6 +31,9 @@ Motivated to build solutions that are **secure, scalable and user-centered**.
 | ![ronpanic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronpanic&theme=dark&hide_border=true) | ![ronpanic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronpanic&theme=dark&show_icons=true&hide_border=true&layout=compact) | 
 | ------------- | ------------- |
 
+![snake gif](https://github.com/ronpanic/ronpanic/blob/output/github-snake-dark.svg)
+
+
 <details>
   <summary><h3>🔒 Pathly Project</h3></summary>
   
